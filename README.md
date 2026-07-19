@@ -47,6 +47,4 @@ Screenshots of the application are available in the **screenshots** folder.
 
 **C S Amrutha**
 
-**USN:** 23BTIT107
 
-B.Tech Information Technology
